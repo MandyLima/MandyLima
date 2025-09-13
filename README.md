@@ -36,11 +36,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-###
-
-<h2 align="left">📫 Onde me encontrar</h2>
-
-<p align="left">
-  <a href="https://github.com/MandyLima" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/amanda-araujo-lima-" target="_blank">LinkedIn</a>
-</p>
