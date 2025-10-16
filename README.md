@@ -1,6 +1,6 @@
 ## Olá, eu sou a Amanda Araujo Lima!
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma** na FATEC.
+Sou estudante de **Desenvolvimento de Software Multiplataforma** na FATEC.<br>
 
 Atualmente estou no **3º Semestre** e busco oportunidades para aplicar meus conhecimentos em projetos reais e evoluir profissionalmente.
 
@@ -8,9 +8,9 @@ Atualmente estou no **3º Semestre** e busco oportunidades para aplicar meus con
 
 ### Foco e Habilidades
 
-📚 **Conhecimentos:** Tenho versatilidade para atuar no Backend (Java, Spring Boot, SQL) e no Frontend (HTML, CSS, JavaScript).
-🎯 **Objetivo:** Conquistar meu primeiro estágio na área de desenvolvimento e evoluir minhas habilidades.
-🎲 **Curiosidade:** Meu primeiro contato com programação foi tentando criar um jogo por conta própria!
+📚 **Conhecimentos:** Tenho versatilidade para atuar no Backend (Java, Spring Boot, SQL) e no Frontend (HTML, CSS, JavaScript).<br>
+🎯 **Objetivo:** Conquistar meu primeiro estágio na área de desenvolvimento e evoluir minhas habilidades.<br>
+🎲 **Curiosidade:** Meu primeiro contato com programação foi tentando criar um jogo por conta própria!<br>
 
 ###
 
