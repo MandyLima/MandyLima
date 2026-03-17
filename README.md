@@ -2,7 +2,7 @@
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma** na FATEC.<br>
 
-Atualmente estou no **3º Semestre** e busco oportunidades para aplicar meus conhecimentos em projetos reais e evoluir profissionalmente.
+Atualmente estou no **4º Semestre** e busco oportunidades para aplicar meus conhecimentos em projetos reais e evoluir profissionalmente.
 
 ---
 
